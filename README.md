@@ -1,11 +1,12 @@
 🌴 Description:
 
-    This script allows you to scan ports on a target host to check which ports are open and which are closed.
+This script allows you to scan ports on a target host to check which ports are open and which are closed.
 
 🌴 How to Use:
 
-    Clone the Repository:
-        Clone the repository to your local machine using the following command:
+Clone the Repository:
+
+Clone the repository to your local machine using the following command:
 
         bash
 
